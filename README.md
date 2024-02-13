@@ -28,7 +28,9 @@
 
 - 📫 How to reach me **sharoneris481@gmail.com**
 
-- ⚡ Fun fact **Gummy bears were originally called "dancing bears.**
+- ⚡ Fun fact "Why do programmers prefer dark mode? Because light attracts bugs!"
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
