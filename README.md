@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sharon Eris</h1>
-<h3 align="center">A passionate software developer from Kenya</h3>
+<h3 align="center">A passionate software developer</h3>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=SharonEris&theme=dark&label=Profile%20views&color=0e75b6&style=flat" alt="SharonEris"/></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharoneris&" alt="sharoneris" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharoneris&show_icons=true&locale=en&layout=compact" alt="sharoneris" /></p>
