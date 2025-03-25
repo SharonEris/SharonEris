@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Frameworks**
 
-- 👯 I’m looking to collaborate on **Contract Management System**
+- 👯 I’m looking to collaborate on new exciting projects
 
 - 🤝 I’m looking for help with **Learning Springboot**
 
