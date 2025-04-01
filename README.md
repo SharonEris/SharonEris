@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Frameworks**
 
-- 👯 I’m looking to collaborate on new exciting projects
+- 👯 I’m looking to collaborate on **New Exciting Projects**
 
 - 🤝 I’m looking for help with **Learning Springboot**
 
@@ -24,11 +24,10 @@
 
 - 📝 I regularly write articles on [Travelling](Travelling)
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **.NET**
 
 - 📫 How to reach me **sharoneris481@gmail.com**
 
-- ⚡ Fun fact "Why do programmers prefer dark mode? Because light attracts bugs!"
 
 
 
